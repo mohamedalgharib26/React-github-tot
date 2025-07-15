@@ -1,7 +1,5 @@
-import React from "react";
-
 function App() {
-  return <div>App Goooooo remote </div>;
+  return <div>App Goo new Branch </div>;
 }
 
 export default App;
