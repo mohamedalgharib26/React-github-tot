@@ -1,6 +1,6 @@
 function App() {
   console.log("log....");
-  console.log("xxxnew ");
+  console.log("new ");
   return <div>App Goo new Branch new update </div>;
 }
 
