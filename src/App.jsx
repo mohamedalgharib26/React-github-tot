@@ -1,7 +1,5 @@
-import React from "react";
-
 function App() {
-  return <div>App Goooooo remote new commit add ...s </div>;
+  return <div>App Goo new Branch new update </div>;
 }
 
 export default App;
